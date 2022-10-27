@@ -6,7 +6,7 @@ import Experience from './components/Experience/Experience'
 import Services from './components/services/Services'
 import Portfolio from './components/portfolio/portfolio'
 import Testimonials from './components/testimonials/testimonials'
-import Contact from './components/Contact/contact'
+import Contact from './components/Contact/Contact'
 
 
 
